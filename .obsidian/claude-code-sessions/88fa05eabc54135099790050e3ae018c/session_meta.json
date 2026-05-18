@@ -1,0 +1,18 @@
+{
+  "sessionName": "hot",
+  "isStandalone": false,
+  "linkedNotes": [
+    {
+      "path": "hot.md",
+      "title": "hot",
+      "linkedAt": "2026-05-18T13:44:53.107Z",
+      "isPrimary": true
+    }
+  ],
+  "backend": "claude",
+  "lastUsed": "2026-05-18T13:47:04.107Z",
+  "createdAt": "2026-05-18T13:44:53.107Z",
+  "messageCount": 2,
+  "notePath": "hot.md",
+  "noteTitle": "hot"
+}

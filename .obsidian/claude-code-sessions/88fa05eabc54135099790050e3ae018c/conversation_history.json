@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "Hello",
+    "timestamp": "2026-05-18T13:45:01.561Z"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I help you with your note today?",
+    "timestamp": "2026-05-18T13:45:01.561Z"
+  },
+  {
+    "role": "user",
+    "content": "what is hot.md for?",
+    "timestamp": "2026-05-18T13:47:14.640Z"
+  },
+  {
+    "role": "assistant",
+    "content": "`hot.md` is a **semantic snapshot / activity log** for your Obsidian vault. Think of it as a rolling summary that tracks:\n\n- **Recent Activity** — what notes were recently created or ingested, with timestamps\n- **Active Threads** — ongoing topics or clusters of connected notes being developed\n- **Key Takeaways** — important insights surfaced from recent work\n- **Flagged Contradictions** — any conflicting information found across notes\n\nIt's designed to give a quick \"where was I?\" orientation at the start of a session, so you (or an AI assistant) can pick up context without re-reading everything. It gets updated after major write operations.",
+    "timestamp": "2026-05-18T13:47:14.640Z"
+  }
+]

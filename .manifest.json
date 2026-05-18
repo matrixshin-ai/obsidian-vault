@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "last_updated": "2026-05-18T00:10:00+09:00",
+  "sources": {
+    "Economy/1 GDP/1) GDP 일반/2 통계와 동향.md": {
+      "ingested_at": "2026-05-18T00:10:00+09:00",
+      "size_bytes": 1373,
+      "modified_at": "2026-03-05T23:44:01+09:00",
+      "content_hash": "sha256:a9b8eff83999c598ae04f597726f96b21a6a481443d462d235e60273f2b5d260",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/korea-gdp.md",
+        "concepts/korea-gdp-components.md",
+        "concepts/korea-economic-growth.md"
+      ],
+      "pages_updated": []
+    }
+  },
+  "projects": {},
+  "stats": {
+    "total_sources_ingested": 1,
+    "total_pages": 3,
+    "total_projects": 0,
+    "last_full_rebuild": null
+  }
+}

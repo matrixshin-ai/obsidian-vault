@@ -1,0 +1,84 @@
+# Binary files - images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.ico
+*.svg
+*.webp
+*.heic
+*.heif
+*.raw
+*.psd
+*.ai
+
+# Binary files - audio
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.wma
+*.aiff
+*.opus
+
+# Binary files - video
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.m4v
+*.mpg
+*.mpeg
+*.3gp
+
+# Binary files - documents
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.hwp
+*.hwpx
+
+# Binary files - archives
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.bz2
+
+# Binary files - other
+*.exe
+*.dmg
+*.iso
+*.bin
+*.dat
+
+# Obsidian workspace files (optional: comment out if you want to sync workspace)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# Obsidian cache
+.obsidian/cache
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code internal files
+.claude/
+.claudian/

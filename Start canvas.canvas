@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"69a9b515973ebbf4","type":"text","text":"dfghghhj","x":-289,"y":127,"width":250,"height":60},
+		{"id":"75986d44bea203e4","type":"file","file":"GDP.md","x":-520,"y":-360,"width":380,"height":220}
+	],
+	"edges":[
+		{"id":"4e9e8311b9fde4fa","fromNode":"75986d44bea203e4","fromSide":"bottom","toNode":"69a9b515973ebbf4","toSide":"left"}
+	]
+}
