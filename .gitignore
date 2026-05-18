@@ -82,3 +82,9 @@ desktop.ini
 # Claude Code internal files
 .claude/
 .claudian/
+
+# Embedded git repos (third-party plugins/tools)
+obsidian-wiki/
+
+# Syncthing
+.stfolder/
