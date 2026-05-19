@@ -10,6 +10,9 @@ relationships:
     type: related_to
 sources:
   - "Economy/1 GDP/1) GDP 일반/2 통계와 동향.md"
+  - "Economy/1 GDP/2) 소비/소비.md"
+  - "Economy/1 GDP/3) 투자/투자 개요.md"
+  - "Economy/1 GDP/4) 수출/수출 개요와 동향.md"
 summary: 2024년 한국 GDP는 소비50%·투자30%·정부15%·수출45%·수입40% 구성으로, 소비 비중이 OECD 평균(62.9%)을 크게 하회해 내수 취약성을 드러낸다.
 provenance:
   extracted: 0.80
@@ -19,7 +22,7 @@ base_confidence: 0.47
 lifecycle: draft
 lifecycle_changed: "2026-05-18"
 created: 2026-05-18T00:00:00+09:00
-updated: 2026-05-18T00:00:00+09:00
+updated: 2026-05-19T00:00:00+09:00
 ---
 
 # 한국 GDP 지출 구성
@@ -53,6 +56,9 @@ GDP = C(소비) + I(투자) + G(정부지출) + X(수출) − M(수입) 공식�
 
 - [[concepts/korea-gdp]] — 전체 GDP 규모와 세계 위상
 - [[concepts/korea-economic-growth]] — 연도별 실질성장률 추세
+- [[concepts/korea-consumption]] — 소비 구조와 위기 (가계부채·고령화·고금리)
+- [[concepts/korea-investment]] — 투자 동향 (건설투자 급락, 해외 자본 유출)
+- [[concepts/korea-exports]] — 수출 구조 (반도체·미중 의존, 관세 리스크)
 
 ## Open Questions
 

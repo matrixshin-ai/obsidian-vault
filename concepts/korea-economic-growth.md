@@ -19,7 +19,7 @@ base_confidence: 0.47
 lifecycle: draft
 lifecycle_changed: "2026-05-18"
 created: 2026-05-18T00:00:00+09:00
-updated: 2026-05-18T00:00:00+09:00
+updated: 2026-05-19T00:00:00+09:00
 ---
 
 # 한국 경제성장률 추세
@@ -51,6 +51,10 @@ updated: 2026-05-18T00:00:00+09:00
 
 - [[concepts/korea-gdp]] — GDP 절대 규모와 세계 위상
 - [[concepts/korea-gdp-components]] — 소비·투자·수출 구성 비율
+- [[concepts/korea-investment]] — 건설투자 급락(-9.9%)과 해외 자본 유출이 성장 둔화를 심화
+- [[concepts/korea-consumption]] — 소비 취약 구조가 성장 완충력 저하의 핵심
+- [[concepts/korea-labor-market]] — 고용 구조 변화가 내수 성장에 미치는 영향
+- [[concepts/korea-aging-economy]] — 고령화가 장기 성장 잠재력을 제약
 
 ## Open Questions
 
