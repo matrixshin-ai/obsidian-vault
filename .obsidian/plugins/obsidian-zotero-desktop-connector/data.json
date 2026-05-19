@@ -10,7 +10,8 @@
       "name": "Import #1",
       "outputPathTemplate": "sources/{{title}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Templates/zotero-import.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
