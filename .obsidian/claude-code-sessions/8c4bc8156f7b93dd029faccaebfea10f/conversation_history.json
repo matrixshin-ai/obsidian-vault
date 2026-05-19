@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "obsidian-wiki의 .env 파일에서 \nOBSIDIAN_SOURCES_DIR을 Clipping 폴더로 설정해줘.\nVault 경로는 C:\\Users\\minsi\\Documents\\obsidian-vault 이야.",
+    "timestamp": "2026-05-19T06:20:47.622Z"
+  },
+  {
+    "role": "assistant",
+    "content": "`obsidian-wiki` 프로젝트의 `.env` 파일을 먼저 찾아볼게요.\nREQUIRED_APPROVAL - `C:\\Users\\minsi` 폴더 접근 권한이 필요합니다. 권한을 승인해주시면 `.env` 파일을 찾아서 수정할게요.\n\n혹시 `obsidian-wiki` 프로젝트의 정확한 경로를 알고 계신가요? (예: `C:\\Users\\minsi\\obsidian-wiki` 또는 `C:\\Users\\minsi\\Documents\\obsidian-wiki` 등) 경로를 알려주시면 더 빠르게 찾을 수 있어요.",
+    "timestamp": "2026-05-19T06:20:47.622Z"
+  }
+]
