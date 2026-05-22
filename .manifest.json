@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-19T00:00:00+09:00",
+  "last_updated": "2026-05-23T00:00:00+09:00",
   "sources": {
     "Economy/1 GDP/1) GDP 일반/2 통계와 동향.md": {
       "ingested_at": "2026-05-18T00:10:00+09:00",
@@ -95,12 +95,82 @@
       "project": null,
       "pages_created": [],
       "pages_updated": ["concepts/korea-youth-employment.md"]
+    },
+    "Clippings/이장원의 뷰포인트 글로벌 불균형 '시즌 2'.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 3100,
+      "modified_at": "2026-05-21T14:18:36+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/global-imbalances.md"],
+      "pages_updated": ["concepts/korea-exports.md"]
+    },
+    "Clippings/총 6000억 판매… 정부가 손실 먼저 떠안고 최대 1800만원 稅혜택도10문10답.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 5100,
+      "modified_at": "2026-05-19T16:51:46+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-national-growth-fund.md"],
+      "pages_updated": []
+    },
+    "Economy/100 금융/국민참여형 국민성장펀드.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 3800,
+      "modified_at": "2026-05-19T16:41:41+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-national-growth-fund.md"]
+    },
+    "JAMnomics/국제/1,500원 환율 시대의 역설.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 5600,
+      "modified_at": "2026-05-20T17:51:37+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-krw-usd-1500.md"],
+      "pages_updated": ["concepts/korea-exports.md"]
+    },
+    "Economy/1 GDP/References/한국_저성장_TFP_인구_자본축적_생산성_대화정리_2026-05-20.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 4900,
+      "modified_at": "2026-05-20T17:49:27+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-tfp-potential-growth.md"],
+      "pages_updated": ["concepts/korea-economic-growth.md", "concepts/korea-investment.md"]
+    },
+    "Economy/4. 재정/국민연금 재정.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 1600,
+      "modified_at": "2026-05-23T00:50:38+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-pension-reform.md"],
+      "pages_updated": []
+    },
+    "JAMnomics/GDP/이재명_정부_출범전_한국경제_논리적_재정리.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 8200,
+      "modified_at": "2026-05-22T23:20:58+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["synthesis/korea-economy-pre-lee-government.md"],
+      "pages_updated": ["concepts/korea-gdp-components.md", "concepts/korea-economic-growth.md"]
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 9,
-    "total_pages": 12,
+    "total_sources_ingested": 16,
+    "total_pages": 18,
     "total_projects": 0,
     "last_full_rebuild": null
   }

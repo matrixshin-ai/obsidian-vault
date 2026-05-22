@@ -64,6 +64,7 @@ GDP = C(소비) + I(투자) + G(정부지출) + X(수출) − M(수입) 공식�
 
 - 투자(I) 약화가 지속될 경우 GDP 성장 동력은 어디서 확보하는가?
 - 서비스 소비 비중 60%는 선진국 평균 대비 어느 수준인가? ^[ambiguous]
+- 이재명 정부 출범 전 '대기 상태' 경제([[synthesis/korea-economy-pre-lee-government]])가 각 GDP 구성 항목에 미친 구체적 충격은?
 
 ## Sources
 

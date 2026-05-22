@@ -55,6 +55,8 @@ updated: 2026-05-19T00:00:00+09:00
 - [[concepts/korea-consumption]] — 소비 취약 구조가 성장 완충력 저하의 핵심
 - [[concepts/korea-labor-market]] — 고용 구조 변화가 내수 성장에 미치는 영향
 - [[concepts/korea-aging-economy]] — 고령화가 장기 성장 잠재력을 제약
+- [[concepts/korea-tfp-potential-growth]] — TFP·잠재성장률 구조 진단 (노동·자본·TFP 3축 동반 약화)
+- [[synthesis/korea-economy-pre-lee-government]] — 이재명 정부 출범 전 경제 '대기 상태' 진단
 
 ## Open Questions
 
