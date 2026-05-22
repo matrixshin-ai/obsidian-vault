@@ -1,0 +1,18 @@
+{
+  "sessionName": "국제 유가",
+  "isStandalone": false,
+  "linkedNotes": [
+    {
+      "path": "Economy/100 에너지/국제 유가.md",
+      "title": "국제 유가",
+      "linkedAt": "2026-05-22T07:50:35.938Z",
+      "isPrimary": true
+    }
+  ],
+  "backend": "claude",
+  "lastUsed": "2026-05-22T07:50:35.938Z",
+  "createdAt": "2026-05-22T07:50:35.938Z",
+  "messageCount": 1,
+  "notePath": "Economy/100 에너지/국제 유가.md",
+  "noteTitle": "국제 유가"
+}

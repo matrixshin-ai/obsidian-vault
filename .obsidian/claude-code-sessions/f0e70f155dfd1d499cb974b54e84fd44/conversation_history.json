@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "날자, tag. 이 두개를 반영하는 frontmatter를 만들기 위한 단축키는?",
+    "timestamp": "2026-05-22T07:50:48.245Z"
+  },
+  {
+    "role": "assistant",
+    "content": "Obsidian에서 날짜와 태그가 포함된 frontmatter를 빠르게 만드는 방법은 몇 가지가 있습니다:\n\n## 기본 Obsidian 기능\n\nObsidian 자체에는 frontmatter 전용 단축키가 없습니다. 대신:\n\n- **Templater 플러그인** (추천): 템플릿 파일을 만들고 단축키를 지정\n- **Templates 코어 플러그인**: 기본 템플릿 삽입 (`Ctrl+Shift+T` 기본값)\n\n## Templater로 설정하는 방법\n\n1. Templater 플러그인 설치\n2. 템플릿 파일 생성 (예: `_templates/frontmatter.md`):\n\n```\n---\ndate: <% tp.date.now(\"YYYY-MM-DD\") %>\ntags: []\n---\n```\n\n3. Settings → Templater → Template hotkeys에서 단축키 지정\n\n## Claude Code 단축키 설정\n\n현재 이 Claude Code 세션에서 단축키를 설정하려면:\n\n단축키 설정을 도와드릴까요? `/keybindings-help` 스킬을 사용하거나, 현재 노트에 직접 frontmatter를 추가해 드릴 수도 있습니다.\n\n**지금 바로 이 노트에 frontmatter를 추가할까요?** (날짜: `2026-05-22`, tags 포함)",
+    "timestamp": "2026-05-22T07:50:48.245Z"
+  }
+]
