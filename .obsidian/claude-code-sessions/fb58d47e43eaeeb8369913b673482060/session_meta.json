@@ -1,0 +1,18 @@
+{
+  "sessionName": "채권은 언제 다시 살아날까",
+  "isStandalone": false,
+  "linkedNotes": [
+    {
+      "path": "Economy/100 금융/채권은 언제 다시 살아날까.md",
+      "title": "채권은 언제 다시 살아날까",
+      "linkedAt": "2026-05-22T07:27:47.384Z",
+      "isPrimary": true
+    }
+  ],
+  "backend": "claude",
+  "lastUsed": "2026-05-22T07:27:47.384Z",
+  "createdAt": "2026-05-22T07:27:47.384Z",
+  "messageCount": 1,
+  "notePath": "Economy/100 금융/채권은 언제 다시 살아날까.md",
+  "noteTitle": "채권은 언제 다시 살아날까"
+}

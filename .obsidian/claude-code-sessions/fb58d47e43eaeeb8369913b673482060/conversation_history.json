@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "이 페이지에 속성 칸을 만들어줘. 속성에는 날짜와 태크만 있으면 된다.",
+    "timestamp": "2026-05-22T07:28:02.005Z"
+  },
+  {
+    "role": "assistant",
+    "content": "현재 노트 내용을 먼저 확인하겠습니다.\n노트 상단에 날짜와 태그 속성(YAML frontmatter)을 추가하겠습니다.\n노트 상단에 YAML frontmatter 속성 칸을 추가했습니다.\n\n```yaml\n---\ndate: 2026-05-22\ntags:\n---\n```\n\n`date`는 오늘 날짜로 설정했고, `tags`는 비워두었으니 원하는 태그를 직접 입력하시면 됩니다. Obsidian에서 속성(Properties) 패널을 통해 쉽게 수정하실 수 있습니다.",
+    "timestamp": "2026-05-22T07:28:02.005Z"
+  }
+]
