@@ -60,7 +60,7 @@ updated: 2026-05-19T00:00:00+09:00
 
 ## 거시경제 함의
 
-고령화는 소비·저축·노동 공급·생산성 모두에 영향을 미치는 장기 성장 제약 요인이다. [[concepts/korea-economic-growth]] 둔화의 구조적 배경 중 하나. ^[inferred]
+고령화는 소비·저축·노동 공급·생산성 모두에 영향을 미치는 장기 성장 제약 요인이다. [[concepts/korea-economic-growth]] 둔화의 구조적 배경 중 하나. ^[inferred] 국민연금 재정 지속가능성 위기([[concepts/korea-pension-reform]])도 고령화 심화의 직접 결과다.
 
 ## Open Questions
 

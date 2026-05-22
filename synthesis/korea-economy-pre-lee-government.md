@@ -5,13 +5,13 @@ tags: [한국경제, 이재명정부, 내수부진, 건설침체, 정치불확�
 aliases: [이재명 정부 출범 전 경제, Pre-Lee Government Korea Economy]
 relationships:
   - target: "[[concepts/korea-economic-growth]]"
-    type: synthesizes
+    type: derived_from
   - target: "[[concepts/korea-investment]]"
-    type: synthesizes
+    type: derived_from
   - target: "[[concepts/korea-gdp-components]]"
-    type: synthesizes
+    type: derived_from
   - target: "[[concepts/korea-consumption]]"
-    type: synthesizes
+    type: derived_from
   - target: "[[concepts/korea-tfp-potential-growth]]"
     type: related_to
 sources:
