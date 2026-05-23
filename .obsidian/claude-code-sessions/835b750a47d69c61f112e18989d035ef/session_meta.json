@@ -1,0 +1,24 @@
+{
+  "sessionName": "India",
+  "isStandalone": false,
+  "linkedNotes": [
+    {
+      "path": "Economy/100 국제/India.md",
+      "title": "India",
+      "linkedAt": "2026-05-23T07:53:12.886Z",
+      "isPrimary": true
+    },
+    {
+      "path": "Templates/note-template.md",
+      "title": "note-template",
+      "linkedAt": "2026-05-23T07:53:39.187Z",
+      "isPrimary": false
+    }
+  ],
+  "backend": "claude",
+  "lastUsed": "2026-05-23T07:53:12.886Z",
+  "createdAt": "2026-05-23T07:53:12.886Z",
+  "messageCount": 1,
+  "notePath": "Economy/100 국제/India.md",
+  "noteTitle": "India"
+}
