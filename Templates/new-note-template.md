@@ -1,4 +1,4 @@
 ---
-date: {{date:YYYY-MM-DD}}
+date:
 tags:
 ---
