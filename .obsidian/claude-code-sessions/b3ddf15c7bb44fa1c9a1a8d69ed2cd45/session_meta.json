@@ -1,0 +1,18 @@
+{
+  "sessionName": "무제",
+  "isStandalone": false,
+  "linkedNotes": [
+    {
+      "path": "무제.md",
+      "title": "무제",
+      "linkedAt": "2026-05-23T19:53:59.474Z",
+      "isPrimary": true
+    }
+  ],
+  "backend": "claude",
+  "lastUsed": "2026-05-23T19:53:59.474Z",
+  "createdAt": "2026-05-23T19:53:59.474Z",
+  "messageCount": 1,
+  "notePath": "무제.md",
+  "noteTitle": "무제"
+}

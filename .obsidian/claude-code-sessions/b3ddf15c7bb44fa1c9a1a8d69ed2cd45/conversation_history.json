@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "새 노트에 속성을 추가 할 단축키는?",
+    "timestamp": "2026-05-23T19:54:11.751Z"
+  },
+  {
+    "role": "assistant",
+    "content": "Obsidian에서 노트에 속성(Properties)을 추가하는 단축키는:\n\n**`Ctrl + ;`** (Windows/Linux)\n\n또는 명령 팔레트(`Ctrl + P`) → \"Add file property\" 검색\n\n속성 패널이 열리면 키와 값을 입력할 수 있습니다.",
+    "timestamp": "2026-05-23T19:54:11.751Z"
+  }
+]
