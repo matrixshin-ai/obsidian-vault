@@ -1,10 +1,10 @@
 {
-  "sessionName": "무제",
+  "sessionName": "세수 부족과 세입 경정",
   "isStandalone": false,
   "linkedNotes": [
     {
-      "path": "무제.md",
-      "title": "무제",
+      "path": "Economy/4. 재정/세수 부족과 세입 경정.md",
+      "title": "세수 부족과 세입 경정",
       "linkedAt": "2026-05-23T19:53:59.474Z",
       "isPrimary": true
     }
@@ -13,6 +13,6 @@
   "lastUsed": "2026-05-23T19:53:59.474Z",
   "createdAt": "2026-05-23T19:53:59.474Z",
   "messageCount": 1,
-  "notePath": "무제.md",
-  "noteTitle": "무제"
+  "notePath": "Economy/4. 재정/세수 부족과 세입 경정.md",
+  "noteTitle": "세수 부족과 세입 경정"
 }
