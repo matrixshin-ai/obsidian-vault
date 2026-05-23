@@ -1,0 +1,24 @@
+{
+  "sessionName": "korea-aging-economy",
+  "isStandalone": false,
+  "linkedNotes": [
+    {
+      "path": "concepts/korea-aging-economy.md",
+      "title": "korea-aging-economy",
+      "linkedAt": "2026-05-23T03:29:47.484Z",
+      "isPrimary": true
+    },
+    {
+      "path": "Templates/New Note Template.md",
+      "title": "New Note Template",
+      "linkedAt": "2026-05-23T03:30:07.033Z",
+      "isPrimary": false
+    }
+  ],
+  "backend": "claude",
+  "lastUsed": "2026-05-23T03:29:47.484Z",
+  "createdAt": "2026-05-23T03:29:47.484Z",
+  "messageCount": 1,
+  "notePath": "concepts/korea-aging-economy.md",
+  "noteTitle": "korea-aging-economy"
+}
