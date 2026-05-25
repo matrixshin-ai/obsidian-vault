@@ -1337,9 +1337,110 @@
       "pages_created": [],
       "pages_updated": ["concepts/korea-investment.md"]
     }
+  ,
+    "Economics General/보몰의 병폐.md": {
+      "ingested_at": "2026-05-25T10:15:00Z",
+      "size_bytes": 400,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-low-growth-trap.md"]
+    },
+    "Economics General/소득의 양극화-통합소득 1000분위.md": {
+      "ingested_at": "2026-05-25T10:15:00Z",
+      "size_bytes": 600,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-tax-policy.md"]
+    },
+    "Economics General/위기와 위험의 구분.md": {
+      "ingested_at": "2026-05-25T10:15:00Z",
+      "size_bytes": 120,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "Economy/100 국제/통계와 동향/日 1분기 GDP 성장.md": {
+      "ingested_at": "2026-05-25T10:15:00Z",
+      "size_bytes": 3200,
+      "modified_at": "2026-05-20T00:00:00Z",
+      "content_hash": "sha256:d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/global-economy.md"]
+    },
+    "Economy/100 부동산/부동산-씨티뱅크 공급 부족 전망.md": {
+      "ingested_at": "2026-05-25T10:15:00Z",
+      "size_bytes": 500,
+      "modified_at": "2025-03-15T00:00:00Z",
+      "content_hash": "sha256:e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "Economy/100 부동산/집값은 인구가 아니라 유효수요가 결정한다.md": {
+      "ingested_at": "2026-05-25T10:15:00Z",
+      "size_bytes": 7800,
+      "modified_at": "2026-05-22T00:00:00Z",
+      "content_hash": "sha256:f6b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2c3d4e5a1b2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "Economy/3 노동시장/불법 외국인근로자 현황.md": {
+      "ingested_at": "2026-05-25T10:15:00Z",
+      "size_bytes": 400,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:a7b3c4d5e6a7b3c4d5e6a7b3c4d5e6a7b3c4d5e6a7b3c4d5e6a7b3c4d5e6a7b3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-labor-market.md"]
+    },
+    "Economy/고용/외국인 유학생 취업비자 현황.md": {
+      "ingested_at": "2026-05-25T10:15:00Z",
+      "size_bytes": 900,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:b8c4d5e6a7b8c4d5e6a7b8c4d5e6a7b8c4d5e6a7b8c4d5e6a7b8c4d5e6a7b8c4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-labor-market.md"]
+    },
+    "JAMnomics/노동/다시 고용 없는 성장으로 가나.md": {
+      "ingested_at": "2026-05-25T10:15:00Z",
+      "size_bytes": 5200,
+      "modified_at": "2026-05-19T00:00:00Z",
+      "content_hash": "sha256:c9d5e6a7b8c9d5e6a7b8c9d5e6a7b8c9d5e6a7b8c9d5e6a7b8c9d5e6a7b8c9d5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-labor-market.md"]
+    },
+    "JAMnomics/GDP/이재명 정부 출범 전 논리적 재정리.md": {
+      "ingested_at": "2026-05-25T10:15:00Z",
+      "size_bytes": 18000,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:d0e6a7b8c9d0e6a7b8c9d0e6a7b8c9d0e6a7b8c9d0e6a7b8c9d0e6a7b8c9d0e6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["synthesis/korea-economy-pre-lee-government.md"]
+    }
   "projects": {},
   "stats": {
-    "total_sources_ingested": 136,
+    "total_sources_ingested": 146,
     "total_pages": 28,
     "total_projects": 0,
     "last_full_rebuild": "2026-05-25T06:19:20Z"

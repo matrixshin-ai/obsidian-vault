@@ -94,9 +94,16 @@ IMF 세계경제전망 기준, 대만 1인당 GDP가 한국을 추월하고 성�
 
 → 한국에 필요한 것: AI 반도체(메모리) 고도화 + 인구·가계부채 구조적 저항 완화 ^[inferred]
 
+## 보몰의 병폐 (Baumol's Disease) — 한국 저성장 심화 메커니즘
+
+윌리엄 보몰(William Baumol) 이론: 경제가 성숙할수록 제조업→서비스업으로 산업구조 전환 발생. 서비스업의 생산성이 제조업보다 낮아 **소득 저하·고용 없는 성장** 등 부작용 발생.
+
+한국 적용: 제조업 자동화·해외 이전으로 제조업 일자리 감소 + 서비스업으로 대체 전환 중이나, 서비스업 생산성이 낮아 전체 TFP 성장에 하방 압력. ^[extracted]
+
 ## Sources
 
 - `Economy/1 GDP/1) GDP 일반/1 GDP.md` — 구조적 저성장 진단
 - `Economy/1 GDP/References/한국_저성장_TFP_인구_자본축적_생산성_대화정리_2026-05-20.md` — L·K·TFP 분해 분석
 - `Economy/1 GDP/1) GDP 일반/저성장 트랩과 성장 모형 전환.md`
 - `Economy/1 GDP/References/대만 GDP.md`
+- `Economics General/보몰의 병폐.md`
