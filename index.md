@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-25T09:15:00Z*
+*This index is automatically maintained. Last updated: 2026-05-25T09:45:00Z*
 
 ## Concepts
 
@@ -28,6 +28,7 @@ title: Wiki Index
 - [[concepts/korea-financial-sector-risks]] — ECA 기금배수 21.7배(OECD 14.5배). 서민 신용경색 위험, 자영업자 배드뱅크, 퇴직연금 26.8%, 국민성장펀드 구조 ( #금융 #ECA #신용경색)
 - [[concepts/korea-corporate-governance]] — PBR<1 = ROE<COE 코리아 디스카운트. 상법 개정(이사 충실의무·집중투표·감사위원분리선출)·밸류업 프로그램·최대주주 할증 20% ( #지배구조 #밸류업 #코리아디스카운트)
 - [[concepts/korea-fiscal-policy]] — 2024년 세수결손 30.8조, 관리재정수지 -104.8조. 외평기금 완충 vs 적자국채 투명성 딜레마. 교육교부금 개편 쟁점 ( #재정정책 #세수부족 #추경)
+- [[concepts/global-economy]] — 중국 2025년 무역흑자 1.19조달러(사상최대), 과잉생산 덤핑 수출. 달러강세→EM 국채 매도→금리상승. 홍콩 페그제, 한국 외환개입 4대 수단. 순대외금융자산 1조달러 돌파 ( #글로벌경제 #환율 #중국 #달러)
 
 ## Entities
 
@@ -37,6 +38,7 @@ title: Wiki Index
 
 - [[references/financial-instruments]] — 김치·딤섬·판다·양키본드, TRS·CDS·통화스왑, CET1, 트리핀딜레마, 중립금리 변화 요인 ( #채권 #파생상품 #기축통화)
 - [[references/global-oil-market]] — 세계 석유수요 104.0 mb/d, OPEC 생산 35%·매장량 79%, OPEC+ 공급 48%. 페트로달러 체계 ( #원유 #OPEC #에너지안보)
+- [[references/economic-history]] — 금본위→브레턴우즈→닉슨쇼크→변동환율. 스무트-홀리 관세 교훈. 미중 불균형→서브프라임 버블. Fed 독립성 1951년 재무부-연준 합의 ( #경제사 #금본위 #브레턴우즈 #연준)
 
 ## Synthesis
 
