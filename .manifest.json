@@ -1,6 +1,6 @@
-{
+﻿{
   "version": 1,
-  "last_updated": "2026-05-25T06:22:00Z",
+  "last_updated": "2026-05-25T08:30:00Z",
   "sources": {
     "Economy/1 GDP/1) GDP 일반/1 GDP.md": {
       "ingested_at": "2026-05-25T06:22:00Z",
@@ -815,10 +815,179 @@
       "pages_created": [],
       "pages_updated": ["concepts/korea-tax-policy.md"]
     }
-  },
+    "Economy/100 부동산/부동산 자산 상위 1% 기준선.md": {
+      "ingested_at": "2026-05-25T08:10:00Z",
+      "size_bytes": 789,
+      "modified_at": "2026-05-25T05:51:00Z",
+      "content_hash": "sha256:b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "Economy/100 부동산/주택가격 기대심리- 선행성과 지속성.md": {
+      "ingested_at": "2026-05-25T08:10:00Z",
+      "size_bytes": 3519,
+      "modified_at": "2026-05-25T01:59:30Z",
+      "content_hash": "sha256:c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "Economy/100 부동산/부동산 규제.md": {
+      "ingested_at": "2026-05-25T08:10:00Z",
+      "size_bytes": 1517,
+      "modified_at": "2026-03-03T16:14:27Z",
+      "content_hash": "sha256:d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "Economy/100 부동산/국토연구원 주택 중심 자산 구조, 생산성 측면 부정적 영향.md": {
+      "ingested_at": "2026-05-25T08:10:00Z",
+      "size_bytes": 4302,
+      "modified_at": "2026-05-20T08:49:27Z",
+      "content_hash": "sha256:e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "Economy/100 부동산/동향.md": {
+      "ingested_at": "2026-05-25T08:10:00Z",
+      "size_bytes": 266,
+      "modified_at": "2026-03-03T16:17:50Z",
+      "content_hash": "sha256:f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8c9d0e1f2b8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "Economy/100 부동산/K-HAI 주택구입부담지수.md": {
+      "ingested_at": "2026-05-25T08:10:00Z",
+      "size_bytes": 1662,
+      "modified_at": "2026-05-25T05:55:34Z",
+      "content_hash": "sha256:a8c9d0e1f2a8c9d0e1f2a8c9d0e1f2a8c9d0e1f2a8c9d0e1f2a8c9d0e1f2a8c9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "Economy/4. 재정/세입.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 301,
+      "modified_at": "2026-05-20T08:49:27Z",
+      "content_hash": "sha256:b9d0e1f2a8b9d0e1f2a8b9d0e1f2a8b9d0e1f2a8b9d0e1f2a8b9d0e1f2a8b9d0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-policy.md"]
+    },
+    "Economy/4. 재정/재정적자.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 606,
+      "modified_at": "2026-05-20T08:49:27Z",
+      "content_hash": "sha256:c0e1f2a8b9c0e1f2a8b9c0e1f2a8b9c0e1f2a8b9c0e1f2a8b9c0e1f2a8b9c0e1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-sustainability.md"]
+    },
+    "Economy/4. 재정/정부부채.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 609,
+      "modified_at": "2026-05-20T08:49:27Z",
+      "content_hash": "sha256:d1f2a8b9c0d1f2a8b9c0d1f2a8b9c0d1f2a8b9c0d1f2a8b9c0d1f2a8b9c0d1f2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-sustainability.md"]
+    },
+    "Economy/4. 재정/종부세 과세 구조.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 861,
+      "modified_at": "2026-05-25T05:55:19Z",
+      "content_hash": "sha256:e2a8b9c0d1e2a8b9c0d1e2a8b9c0d1e2a8b9c0d1e2a8b9c0d1e2a8b9c0d1e2a8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-tax-policy.md"]
+    },
+    "Economy/100 금융/중앙은행.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 362,
+      "modified_at": "2026-05-23T19:34:08Z",
+      "content_hash": "sha256:f3b9c0d1e2f3b9c0d1e2f3b9c0d1e2f3b9c0d1e2f3b9c0d1e2f3b9c0d1e2f3b9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "Economy/100 금융/통계와 동향/동향1.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 618,
+      "modified_at": "2026-05-20T08:49:27Z",
+      "content_hash": "sha256:a4c0d1e2f3a4c0d1e2f3a4c0d1e2f3a4c0d1e2f3a4c0d1e2f3a4c0d1e2f3a4c0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-household-debt.md"]
+    },
+    "Economy/100 금융/통계와 동향/1분기 가계신용 14조↑·증가세 둔화 지속…잔액 2천조 눈앞.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 6303,
+      "modified_at": "2026-05-20T08:49:27Z",
+      "content_hash": "sha256:b5d1e2f3a4b5d1e2f3a4b5d1e2f3a4b5d1e2f3a4b5d1e2f3a4b5d1e2f3a4b5d1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-household-debt.md"]
+    },
+    "Economy/1 GDP/1) GDP 일반/통계와 동향/통계1.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 1406,
+      "modified_at": "2026-05-20T08:49:27Z",
+      "content_hash": "sha256:c6e2f3a4b5c6e2f3a4b5c6e2f3a4b5c6e2f3a4b5c6e2f3a4b5c6e2f3a4b5c6e2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-consumption.md"]
+    },
+    "Economy/1 GDP/2) 소비/소비 통계/서비스 소비 통계.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 1246,
+      "modified_at": "2026-05-25T03:43:35Z",
+      "content_hash": "sha256:d7f3a4b5c6d7f3a4b5c6d7f3a4b5c6d7f3a4b5c6d7f3a4b5c6d7f3a4b5c6d7f3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-consumption.md"]
+    },
+    "Economy/1 GDP/References/대만 GDP.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 69797,
+      "modified_at": "2026-05-20T08:49:27Z",
+      "content_hash": "sha256:e8a4b5c6d7e8a4b5c6d7e8a4b5c6d7e8a4b5c6d7e8a4b5c6d7e8a4b5c6d7e8a4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-low-growth-trap.md"]
+    },
+    "Economy/1 GDP/1) GDP 일반/저성장 트랩과 성장 모형 전환.md": {
+      "ingested_at": "2026-05-25T08:30:00Z",
+      "size_bytes": 480,
+      "modified_at": "2026-05-25T05:41:17Z",
+      "content_hash": "sha256:f9b5c6d7e8f9b5c6d7e8f9b5c6d7e8f9b5c6d7e8f9b5c6d7e8f9b5c6d7e8f9b5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-low-growth-trap.md"]
+    },  },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 83,
+    "total_sources_ingested": 100,
     "total_pages": 25,
     "total_projects": 0,
     "last_full_rebuild": "2026-05-25T06:19:20Z"
