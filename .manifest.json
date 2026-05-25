@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "last_updated": "2026-05-25T06:22:00Z",
+  "sources": {
+    "Economy/1 GDP/1) GDP 일반/1 GDP.md": {
+      "ingested_at": "2026-05-25T06:22:00Z",
+      "size_bytes": 3334,
+      "modified_at": "2026-05-20T09:03:10Z",
+      "content_hash": "sha256:ccb36da197f21dcd0eaf115ccda3764bfb34585c1112cf1a47aa03b69021bafc",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-low-growth-trap.md"],
+      "pages_updated": []
+    },
+    "Economy/1 GDP/References/한국_저성장_TFP_인구_자본축적_생산성_대화정리_2026-05-20.md": {
+      "ingested_at": "2026-05-25T06:22:00Z",
+      "size_bytes": 8068,
+      "modified_at": "2026-05-20T08:49:27Z",
+      "content_hash": "sha256:d7195e153d51af4b90bc79b5adf6d2b1461fdfb9c3bb223d8b3600f4c1f21782",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-low-growth-trap.md"]
+    },
+    "Economy/100 금융/한은 가계신용 누증 리스크 분석.md": {
+      "ingested_at": "2026-05-25T06:22:00Z",
+      "size_bytes": 3323,
+      "modified_at": "2026-05-25T05:43:10Z",
+      "content_hash": "sha256:7bf522cbb97593fc61d4c4571d64c18cc9a36d7f50b7b750392ca22b2547db2d",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-household-debt.md"],
+      "pages_updated": []
+    },
+    "Economy/4. 재정/재정 Introduction.md": {
+      "ingested_at": "2026-05-25T06:22:00Z",
+      "size_bytes": 4332,
+      "modified_at": "2026-05-24T19:45:10Z",
+      "content_hash": "sha256:02a0a01e801fd74489ec764596e542bcfb5802aeeab9a97c11a97bbaed29b331",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-fiscal-sustainability.md"],
+      "pages_updated": []
+    },
+    "Economy/4. 재정/재정적자와 미래세대 부담.md": {
+      "ingested_at": "2026-05-25T06:22:00Z",
+      "size_bytes": 7548,
+      "modified_at": "2026-05-24T19:49:59Z",
+      "content_hash": "sha256:268f7dd0607ddd1ab47162105fb0c3f3bfba3db384d80584bb5ddc6c975a2ea5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-sustainability.md"]
+    },
+    "JAMnomics/국제/1,500원 환율 시대의 역설.md": {
+      "ingested_at": "2026-05-25T06:22:00Z",
+      "size_bytes": 10078,
+      "modified_at": "2026-05-20T08:51:37Z",
+      "content_hash": "sha256:e169568b4857a013f97f6d5796505f2fb10f6a197b17657879ea4020f06b5a7f",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-exchange-rate-new-normal.md"],
+      "pages_updated": []
+    },
+    "JAMnomics/GDP/이재명_정부_출범전_한국경제_논리적_재정리.md": {
+      "ingested_at": "2026-05-25T06:22:00Z",
+      "size_bytes": 16131,
+      "modified_at": "2026-05-22T14:20:58Z",
+      "content_hash": "sha256:ae7999470982e9783140b966dc377f4f74b757255e003258fe1ea494704c11cf",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["synthesis/korea-economy-pre-lee-government.md"],
+      "pages_updated": []
+    },
+    "History/역사적 오일쇼크 1·2·3차.md": {
+      "ingested_at": "2026-05-25T06:22:00Z",
+      "size_bytes": 3408,
+      "modified_at": "2026-05-25T05:46:33Z",
+      "content_hash": "sha256:2d6773ab78753e305d5ea6570025b6fd3cbd0753c44563a3400ad5190e8e2b5f",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/global-oil-shocks.md"],
+      "pages_updated": []
+    }
+  },
+  "projects": {},
+  "stats": {
+    "total_sources_ingested": 8,
+    "total_pages": 6,
+    "total_projects": 0,
+    "last_full_rebuild": "2026-05-25T06:19:20Z"
+  }
+}
