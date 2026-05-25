@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-25T07:50:00Z*
+*This index is automatically maintained. Last updated: 2026-05-25T09:15:00Z*
 
 ## Concepts
 
@@ -26,6 +26,7 @@ title: Wiki Index
 - [[concepts/korea-tax-policy]] — 상속세 대상 사망자 5.7%, 상위1%가 세수 89.1%. 대기업 법인세 실효 13.9%<OECD 평균. 종부세 상위1% 68% ( #세제 #상속세 #법인세 #종부세)
 - [[concepts/korea-welfare-healthcare]] — 건강보험 정부지원금 12.2조(지출의 12%). 공공병상 10%(OECD 최하위). 기초연금 수혜 노인 소득 중위소득 90% 초과해 개편 논의 ( #건강보험 #기초연금 #공공의료)
 - [[concepts/korea-financial-sector-risks]] — ECA 기금배수 21.7배(OECD 14.5배). 서민 신용경색 위험, 자영업자 배드뱅크, 퇴직연금 26.8%, 국민성장펀드 구조 ( #금융 #ECA #신용경색)
+- [[concepts/korea-corporate-governance]] — PBR<1 = ROE<COE 코리아 디스카운트. 상법 개정(이사 충실의무·집중투표·감사위원분리선출)·밸류업 프로그램·최대주주 할증 20% ( #지배구조 #밸류업 #코리아디스카운트)
 - [[concepts/korea-fiscal-policy]] — 2024년 세수결손 30.8조, 관리재정수지 -104.8조. 외평기금 완충 vs 적자국채 투명성 딜레마. 교육교부금 개편 쟁점 ( #재정정책 #세수부족 #추경)
 
 ## Entities
