@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-05-25T07:15:00Z*
+*This index is automatically maintained. Last updated: 2026-05-25T07:50:00Z*
 
 ## Concepts
 
@@ -25,12 +25,17 @@ title: Wiki Index
 - [[concepts/korea-real-estate]] — 서울 아파트 2025년 +8.71%. 수도권-비수도권 평당 분양가 격차 770→970만원. PF 부실·공급 위축 ( #부동산 #주택 #자산가격 #양극화)
 - [[concepts/korea-tax-policy]] — 상속세 대상 사망자 5.7%, 상위1%가 세수 89.1%. 대기업 법인세 실효 13.9%<OECD 평균. 종부세 상위1% 68% ( #세제 #상속세 #법인세 #종부세)
 - [[concepts/korea-welfare-healthcare]] — 건강보험 정부지원금 12.2조(지출의 12%). 공공병상 10%(OECD 최하위). 기초연금 수혜 노인 소득 중위소득 90% 초과해 개편 논의 ( #건강보험 #기초연금 #공공의료)
+- [[concepts/korea-financial-sector-risks]] — ECA 기금배수 21.7배(OECD 14.5배). 서민 신용경색 위험, 자영업자 배드뱅크, 퇴직연금 26.8%, 국민성장펀드 구조 ( #금융 #ECA #신용경색)
+- [[concepts/korea-fiscal-policy]] — 2024년 세수결손 30.8조, 관리재정수지 -104.8조. 외평기금 완충 vs 적자국채 투명성 딜레마. 교육교부금 개편 쟁점 ( #재정정책 #세수부족 #추경)
 
 ## Entities
 
 ## Skills
 
 ## References
+
+- [[references/financial-instruments]] — 김치·딤섬·판다·양키본드, TRS·CDS·통화스왑, CET1, 트리핀딜레마, 중립금리 변화 요인 ( #채권 #파생상품 #기축통화)
+- [[references/global-oil-market]] — 세계 석유수요 104.0 mb/d, OPEC 생산 35%·매장량 79%, OPEC+ 공급 48%. 페트로달러 체계 ( #원유 #OPEC #에너지안보)
 
 ## Synthesis
 

@@ -13,12 +13,18 @@ relationships:
 sources:
   - "Economy/100 부동산/부동산-자산가격과 정책여력.md"
   - "Economy/100 부동산/주택 양극화-수도권 vs 비수도권.md"
+  - "Economy/100 부동산/부동산 자산 상위 1% 기준선.md"
+  - "Economy/100 부동산/주택가격 기대심리- 선행성과 지속성.md"
+  - "Economy/100 부동산/부동산 규제.md"
+  - "Economy/100 부동산/국토연구원 주택 중심 자산 구조, 생산성 측면 부정적 영향.md"
+  - "Economy/100 부동산/동향.md"
+  - "Economy/100 부동산/K-HAI 주택구입부담지수.md"
 summary: 서울 아파트 2025년 누적 +8.71%. 자산가격 강세가 소비·통화정책 여력 양면에서 부담. 수도권-비수도권 평당 분양가 격차 2020년 770만원→2024년 970만원으로 심화.
 provenance:
-  extracted: 0.82
-  inferred: 0.15
+  extracted: 0.83
+  inferred: 0.14
   ambiguous: 0.03
-base_confidence: 0.50
+base_confidence: 0.56
 lifecycle: draft
 lifecycle_changed: 2026-05-25
 created: 2026-05-25T06:40:00Z

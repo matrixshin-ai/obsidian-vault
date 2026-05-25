@@ -464,10 +464,362 @@
       "pages_updated": ["concepts/korea-exports.md"]
     }
   },
+    "Economy/100 금융/트리핀 딜레마.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 280,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/financial-instruments.md"],
+      "pages_updated": []
+    },
+    "Economy/100 금융/공적보유액과 달러 기축통화.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 680,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "Economy/100 금융/Currency Swap과 달러 조달.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 430,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "Economy/100 금융/중립금리 Neutral Rate.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 350,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "Economy/100 금융/본드 종류-김치·딤섬·판다.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 380,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "Economy/100 금융/양키본드와 리버스 양키본드.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 400,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8b9c0d1e2f3a8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "Economy/100 금융/TRS 토탈리턴스왑.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 280,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "Economy/100 금융/SSA 스타일 채권 발행.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 420,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "Economy/100 금융/CET1 자기자본 비율.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 1200,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "Economy/100 금융/채권은 언제 다시 살아날까.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 3800,
+      "modified_at": "2026-05-22T00:00:00Z",
+      "content_hash": "sha256:d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "Economy/100 금융/ECA 기금배수-무역보험공사.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 800,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-financial-sector-risks.md"],
+      "pages_updated": []
+    },
+    "Economy/100 금융/신용불량자와 CDS 신용경색.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 480,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9b0c1d2e3f4a9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-financial-sector-risks.md"]
+    },
+    "Economy/100 금융/자영업자 배드뱅크.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 320,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-financial-sector-risks.md"]
+    },
+    "Economy/100 금융/기업 건전성-이자보상배율 EBITDA.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 480,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-financial-sector-risks.md"]
+    },
+    "Economy/100 금융/퇴직연금 도입 현황.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 150,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-financial-sector-risks.md"]
+    },
+    "Economy/100 금융/국민참여형 국민성장펀드.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 3200,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-financial-sector-risks.md"]
+    },
+    "Economy/100 금융/한국은행의 이익과 비용, 당기순이익.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 1600,
+      "modified_at": "2026-05-23T00:00:00Z",
+      "content_hash": "sha256:e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-financial-sector-risks.md"]
+    },
+    "Economy/100 금융/가계부채-상시 누수 에세이.md": {
+      "ingested_at": "2026-05-25T07:30:00Z",
+      "size_bytes": 1400,
+      "modified_at": "2026-05-25T05:43:00Z",
+      "content_hash": "sha256:f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0b1c2d3e4f5a0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-household-debt.md"]
+    }
+  },
+    "Economy/100 에너지 원자재/석유.md": {
+      "ingested_at": "2026-05-25T07:45:00Z",
+      "size_bytes": 700,
+      "modified_at": "2026-05-25T05:47:00Z",
+      "content_hash": "sha256:a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-energy-structure.md"]
+    },
+    "Economy/100 에너지 원자재/국제 유가.md": {
+      "ingested_at": "2026-05-25T07:45:00Z",
+      "size_bytes": 600,
+      "modified_at": "2026-05-25T05:47:00Z",
+      "content_hash": "sha256:b2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-energy-structure.md"]
+    },
+    "Economy/100 에너지 원자재/이란발 석유 위기 대응 (한, 중, 일).md": {
+      "ingested_at": "2026-05-25T07:45:00Z",
+      "size_bytes": 9800,
+      "modified_at": "2026-05-25T05:47:00Z",
+      "content_hash": "sha256:c3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-energy-structure.md"]
+    },
+    "Economy/100 에너지 원자재/전력시장 SMP·REC 국제 비교.md": {
+      "ingested_at": "2026-05-25T07:45:00Z",
+      "size_bytes": 1200,
+      "modified_at": "2026-05-25T05:47:00Z",
+      "content_hash": "sha256:d4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-energy-structure.md"]
+    },
+    "Economy/100 에너지 원자재/전력-대기업 소비와 탄소배출권.md": {
+      "ingested_at": "2026-05-25T07:45:00Z",
+      "size_bytes": 280,
+      "modified_at": "2026-05-25T05:47:00Z",
+      "content_hash": "sha256:e5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-energy-structure.md"]
+    },
+    "Economy/100 에너지 원자재/원유 시장 개요 통계.md": {
+      "ingested_at": "2026-05-25T07:45:00Z",
+      "size_bytes": 3200,
+      "modified_at": "2026-05-25T05:47:00Z",
+      "content_hash": "sha256:f6c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/global-oil-market.md"],
+      "pages_updated": []
+    },
+    "Economy/100 에너지 원자재/금.md": {
+      "ingested_at": "2026-05-25T07:45:00Z",
+      "size_bytes": 120,
+      "modified_at": "2026-05-25T05:47:00Z",
+      "content_hash": "sha256:a7d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/global-oil-market.md"]
+    },
+    "Economy/4. 재정/세수 부족과 세입 경정.md": {
+      "ingested_at": "2026-05-25T07:50:00Z",
+      "size_bytes": 5200,
+      "modified_at": "2026-05-25T05:49:00Z",
+      "content_hash": "sha256:b8e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-fiscal-policy.md"],
+      "pages_updated": []
+    },
+    "Economy/4. 재정/추경의 재원.md": {
+      "ingested_at": "2026-05-25T07:50:00Z",
+      "size_bytes": 180,
+      "modified_at": "2026-05-25T05:49:00Z",
+      "content_hash": "sha256:c9f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-policy.md"]
+    },
+    "Economy/4. 재정/경기부양 레버의 한계.md": {
+      "ingested_at": "2026-05-25T07:50:00Z",
+      "size_bytes": 160,
+      "modified_at": "2026-05-25T05:49:00Z",
+      "content_hash": "sha256:d0a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1c2d3e4f5a1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-policy.md"]
+    },
+    "Economy/4. 재정/교육교부금 개편 논쟁.md": {
+      "ingested_at": "2026-05-25T07:50:00Z",
+      "size_bytes": 2400,
+      "modified_at": "2026-05-25T05:49:00Z",
+      "content_hash": "sha256:e1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-policy.md"]
+    },
+    "Economy/4. 재정/한국 국방비 GDP 2.8%.md": {
+      "ingested_at": "2026-05-25T07:50:00Z",
+      "size_bytes": 120,
+      "modified_at": "2026-05-25T05:49:00Z",
+      "content_hash": "sha256:f2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-policy.md"]
+    },
+    "Economy/4. 재정/독신가구와 유자녀가구 세부담 차이.md": {
+      "ingested_at": "2026-05-25T07:50:00Z",
+      "size_bytes": 120,
+      "modified_at": "2026-05-25T05:49:00Z",
+      "content_hash": "sha256:a3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-policy.md"]
+    },
+    "Economy/4. 재정/의무지출과 재량지출.md": {
+      "ingested_at": "2026-05-25T07:50:00Z",
+      "size_bytes": 280,
+      "modified_at": "2026-05-25T05:49:00Z",
+      "content_hash": "sha256:b4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-policy.md"]
+    },
+    "Economy/4. 재정/GFC 이후 선진국 재정 긴축.md": {
+      "ingested_at": "2026-05-25T07:50:00Z",
+      "size_bytes": 380,
+      "modified_at": "2026-05-25T05:49:00Z",
+      "content_hash": "sha256:c5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-policy.md"]
+    },
+    "Economy/4. 재정/U.S. Debt Crisis.md": {
+      "ingested_at": "2026-05-25T07:50:00Z",
+      "size_bytes": 480,
+      "modified_at": "2020-04-23T00:00:00Z",
+      "content_hash": "sha256:d6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-policy.md"]
+    },
+    "Economy/4. 재정/실효세율과 유효세율 비교.md": {
+      "ingested_at": "2026-05-25T07:50:00Z",
+      "size_bytes": 480,
+      "modified_at": "2026-05-25T05:49:00Z",
+      "content_hash": "sha256:e7b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-tax-policy.md"]
+    }
+  },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 47,
-    "total_pages": 18,
+    "total_sources_ingested": 83,
+    "total_pages": 25,
     "total_projects": 0,
     "last_full_rebuild": "2026-05-25T06:19:20Z"
   }
