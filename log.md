@@ -20,3 +20,4 @@ title: Wiki Log
 - [2026-05-25T09:15:00Z] INGEST sources=8 pages_created=0 pages_updated=5 mode=append sources="이재명출범전경제상황(간략),글로벌금융브리핑,노동임금일자리20대,노동임금일자리30대,노동성과급논쟁,부동산세대교체,부동산PF시공사,부동산정책1" pages="korea-labor-market,korea-real-estate,korea-financial-sector-risks,references/financial-instruments,korea-exchange-rate-new-normal"
 - [2026-05-25T09:30:00Z] INGEST sources=5 pages_created=1 pages_updated=0 mode=append sources="금본위에서IMF까지,미국의관세,미중무역구조와서브프라임버블,역사적오일쇼크1·2·3차,연준Fed" pages="references/economic-history"
 - [2026-05-25T09:45:00Z] INGEST sources=8 pages_created=1 pages_updated=0 mode=append sources="India,미국(Fed),중국,달러의강세,페그제,외환시장개입,글모음,환율" pages="concepts/global-economy"
+- [2026-05-25T10:00:00Z] INGEST sources=7 pages_created=0 pages_updated=4 mode=append sources="글로벌불균형시즌2,총6000억국민성장펀드,부동산정책2,부동산정책3,아직은매도자시대,제조업vs서비스업이중구조,산업글모음" pages="concepts/global-economy,concepts/korea-financial-sector-risks,concepts/korea-real-estate,concepts/korea-investment"

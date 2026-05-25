@@ -985,10 +985,362 @@
       "pages_created": [],
       "pages_updated": ["concepts/korea-low-growth-trap.md"]
     },  },
+  ,
+    "JAMnomics/100 Value UP/ROE-COE-PBR.md": {
+      "ingested_at": "2026-05-25T08:45:00Z",
+      "size_bytes": 1200,
+      "modified_at": "2026-05-25T05:55:00Z",
+      "content_hash": "sha256:a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-corporate-governance.md"],
+      "pages_updated": []
+    },
+    "JAMnomics/100 Value UP/Value UP.md": {
+      "ingested_at": "2026-05-25T08:45:00Z",
+      "size_bytes": 980,
+      "modified_at": "2026-05-25T05:55:00Z",
+      "content_hash": "sha256:b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-corporate-governance.md"]
+    },
+    "JAMnomics/100 Value UP/감사위원분리선출 제도.md": {
+      "ingested_at": "2026-05-25T08:45:00Z",
+      "size_bytes": 600,
+      "modified_at": "2026-05-25T05:55:00Z",
+      "content_hash": "sha256:c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-corporate-governance.md"]
+    },
+    "JAMnomics/100 Value UP/다중대표소송제.md": {
+      "ingested_at": "2026-05-25T08:45:00Z",
+      "size_bytes": 500,
+      "modified_at": "2026-05-25T05:55:00Z",
+      "content_hash": "sha256:d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-corporate-governance.md"]
+    },
+    "JAMnomics/100 Value UP/물적분할.md": {
+      "ingested_at": "2026-05-25T08:45:00Z",
+      "size_bytes": 450,
+      "modified_at": "2026-05-25T05:55:00Z",
+      "content_hash": "sha256:e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-corporate-governance.md"]
+    },
+    "JAMnomics/100 Value UP/스튜어드십 코드.md": {
+      "ingested_at": "2026-05-25T08:45:00Z",
+      "size_bytes": 380,
+      "modified_at": "2026-05-25T05:55:00Z",
+      "content_hash": "sha256:f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-corporate-governance.md"]
+    },
+    "JAMnomics/100 Value UP/집중투표제.md": {
+      "ingested_at": "2026-05-25T08:45:00Z",
+      "size_bytes": 300,
+      "modified_at": "2026-05-25T05:55:00Z",
+      "content_hash": "sha256:a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-corporate-governance.md"]
+    },
+    "JAMnomics/100 Value UP/최대주주 할증.md": {
+      "ingested_at": "2026-05-25T08:45:00Z",
+      "size_bytes": 280,
+      "modified_at": "2026-05-25T05:55:00Z",
+      "content_hash": "sha256:b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-corporate-governance.md"]
+    },
+    "JAMnomics/국제/글로벌 금융 시장 브리핑.md": {
+      "ingested_at": "2026-05-25T09:15:00Z",
+      "size_bytes": 3200,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/financial-instruments.md"]
+    },
+    "JAMnomics/노동/노동임금일자리-20대 이하.md": {
+      "ingested_at": "2026-05-25T09:15:00Z",
+      "size_bytes": 1800,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-labor-market.md"]
+    },
+    "JAMnomics/노동/노동임금일자리-30대.md": {
+      "ingested_at": "2026-05-25T09:15:00Z",
+      "size_bytes": 1600,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-labor-market.md"]
+    },
+    "JAMnomics/노동/노동성과급논쟁.md": {
+      "ingested_at": "2026-05-25T09:15:00Z",
+      "size_bytes": 900,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-labor-market.md"]
+    },
+    "JAMnomics/부동산/부동산세대교체.md": {
+      "ingested_at": "2026-05-25T09:15:00Z",
+      "size_bytes": 2100,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "JAMnomics/부동산/시공사 Project Finance.md": {
+      "ingested_at": "2026-05-25T09:15:00Z",
+      "size_bytes": 3800,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-financial-sector-risks.md"]
+    },
+    "JAMnomics/부동산/부동산 정책 1.md": {
+      "ingested_at": "2026-05-25T09:15:00Z",
+      "size_bytes": 4200,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-exchange-rate-new-normal.md"]
+    },
+    "History/금본위에서 IMF까지.md": {
+      "ingested_at": "2026-05-25T09:30:00Z",
+      "size_bytes": 2800,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/economic-history.md"],
+      "pages_updated": []
+    },
+    "History/미국의 관세.md": {
+      "ingested_at": "2026-05-25T09:30:00Z",
+      "size_bytes": 1600,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/economic-history.md"]
+    },
+    "History/미중 무역구조와 서브프라임 버블.md": {
+      "ingested_at": "2026-05-25T09:30:00Z",
+      "size_bytes": 2200,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/economic-history.md"]
+    },
+    "History/역사적 오일쇼크 1·2·3차.md": {
+      "ingested_at": "2026-05-25T09:30:00Z",
+      "size_bytes": 3100,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/economic-history.md"]
+    },
+    "History/연준 Fed.md": {
+      "ingested_at": "2026-05-25T09:30:00Z",
+      "size_bytes": 1800,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["references/economic-history.md"]
+    },
+    "Economy/100 국제/India.md": {
+      "ingested_at": "2026-05-25T09:45:00Z",
+      "size_bytes": 800,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/global-economy.md"],
+      "pages_updated": []
+    },
+    "Economy/100 국제/미국.md": {
+      "ingested_at": "2026-05-25T09:45:00Z",
+      "size_bytes": 600,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/global-economy.md"]
+    },
+    "Economy/100 국제/중국/중국.md": {
+      "ingested_at": "2026-05-25T09:45:00Z",
+      "size_bytes": 5200,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/global-economy.md"]
+    },
+    "Economy/100 국제/환율/달러의 강세.md": {
+      "ingested_at": "2026-05-25T09:45:00Z",
+      "size_bytes": 1200,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/global-economy.md"]
+    },
+    "Economy/100 국제/환율/페그제.md": {
+      "ingested_at": "2026-05-25T09:45:00Z",
+      "size_bytes": 800,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/global-economy.md"]
+    },
+    "Economy/100 국제/환율/외환 시장 개입.md": {
+      "ingested_at": "2026-05-25T09:45:00Z",
+      "size_bytes": 1800,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/global-economy.md"]
+    },
+    "Economy/100 국제/환율/글모음.md": {
+      "ingested_at": "2026-05-25T09:45:00Z",
+      "size_bytes": 1600,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/global-economy.md"]
+    },
+    "Economy/100 국제/환율/환율.md": {
+      "ingested_at": "2026-05-25T09:45:00Z",
+      "size_bytes": 3800,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/global-economy.md"]
+    }
+  ,
+    "Clippings/이장원의 뷰포인트 글로벌 불균형 시즌2.md": {
+      "ingested_at": "2026-05-25T10:00:00Z",
+      "size_bytes": 5013,
+      "modified_at": "2026-05-21T00:00:00Z",
+      "content_hash": "sha256:f0a1b2c3d4e5f0a1b2c3d4e5f0a1b2c3d4e5f0a1b2c3d4e5f0a1b2c3d4e5f0a1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/global-economy.md"]
+    },
+    "Clippings/총6000억판매 국민성장펀드.md": {
+      "ingested_at": "2026-05-25T10:00:00Z",
+      "size_bytes": 11055,
+      "modified_at": "2026-05-19T00:00:00Z",
+      "content_hash": "sha256:a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-financial-sector-risks.md"]
+    },
+    "JAMnomics/부동산/부동산 정책 2.md": {
+      "ingested_at": "2026-05-25T10:00:00Z",
+      "size_bytes": 1031,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "JAMnomics/부동산/부동산 정책 3 공급확대정책.md": {
+      "ingested_at": "2026-05-25T10:00:00Z",
+      "size_bytes": 36713,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "JAMnomics/부동산/아직은 매도자 시대.md": {
+      "ingested_at": "2026-05-25T10:00:00Z",
+      "size_bytes": 5304,
+      "modified_at": "2026-05-19T00:00:00Z",
+      "content_hash": "sha256:d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "Economy/산업/제조업 vs 서비스업 이중구조.md": {
+      "ingested_at": "2026-05-25T10:00:00Z",
+      "size_bytes": 1200,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-investment.md"]
+    },
+    "Economy/산업/산업 글모음.md": {
+      "ingested_at": "2026-05-25T10:00:00Z",
+      "size_bytes": 500,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-investment.md"]
+    }
   "projects": {},
   "stats": {
-    "total_sources_ingested": 100,
-    "total_pages": 25,
+    "total_sources_ingested": 136,
+    "total_pages": 28,
     "total_projects": 0,
     "last_full_rebuild": "2026-05-25T06:19:20Z"
   }
