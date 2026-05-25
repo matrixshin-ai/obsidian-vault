@@ -83,10 +83,391 @@
       "pages_updated": []
     }
   },
+    "Economy/1 GDP/2) 소비/소비.md": {
+      "ingested_at": "2026-05-25T06:35:00Z",
+      "size_bytes": 1480,
+      "modified_at": "2026-03-01T17:21:49Z",
+      "content_hash": "sha256:a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-consumption.md"],
+      "pages_updated": []
+    },
+    "Economy/1 GDP/2) 소비/소비-K-shape Recovery.md": {
+      "ingested_at": "2026-05-25T06:35:00Z",
+      "size_bytes": 895,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-consumption.md"]
+    },
+    "Economy/1 GDP/3) 투자/투자 개요.md": {
+      "ingested_at": "2026-05-25T06:35:00Z",
+      "size_bytes": 2374,
+      "modified_at": "2026-03-01T17:48:07Z",
+      "content_hash": "sha256:c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-investment.md"],
+      "pages_updated": []
+    },
+    "Economy/1 GDP/3) 투자/투자-건설·비IT 취약.md": {
+      "ingested_at": "2026-05-25T06:35:00Z",
+      "size_bytes": 865,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-investment.md"]
+    },
+    "Economy/1 GDP/4) 수출/수출 개요와 동향.md": {
+      "ingested_at": "2026-05-25T06:35:00Z",
+      "size_bytes": 1580,
+      "modified_at": "2026-03-01T17:17:03Z",
+      "content_hash": "sha256:e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-exports.md"],
+      "pages_updated": []
+    },
+    "Economy/1 GDP/4) 수출/수출-반도체 편중 리스크.md": {
+      "ingested_at": "2026-05-25T06:35:00Z",
+      "size_bytes": 981,
+      "modified_at": "2026-05-25T05:41:26Z",
+      "content_hash": "sha256:f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-exports.md"]
+    },
+    "Economy/2. 인플레이션/인플레이션.md": {
+      "ingested_at": "2026-05-25T06:35:00Z",
+      "size_bytes": 1280,
+      "modified_at": "2026-03-01T18:16:42Z",
+      "content_hash": "sha256:a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-inflation.md"],
+      "pages_updated": []
+    },
+    "Economy/3 노동시장/고용시장.md": {
+      "ingested_at": "2026-05-25T06:35:00Z",
+      "size_bytes": 3167,
+      "modified_at": "2026-03-01T19:42:50Z",
+      "content_hash": "sha256:b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-labor-market.md"],
+      "pages_updated": []
+    },
+    "Economy/100 부동산/부동산-자산가격과 정책여력.md": {
+      "ingested_at": "2026-05-25T06:48:00Z",
+      "size_bytes": 1027,
+      "modified_at": "2026-05-25T05:42:01Z",
+      "content_hash": "sha256:c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-real-estate.md"],
+      "pages_updated": []
+    },
+    "Economy/100 부동산/주택 양극화-수도권 vs 비수도권.md": {
+      "ingested_at": "2026-05-25T06:48:00Z",
+      "size_bytes": 910,
+      "modified_at": "2026-05-25T05:50:54Z",
+      "content_hash": "sha256:d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-real-estate.md"]
+    },
+    "Economy/100 에너지 원자재/호르무즈 원유수입 의존도.md": {
+      "ingested_at": "2026-05-25T06:48:00Z",
+      "size_bytes": 951,
+      "modified_at": "2026-05-25T05:45:47Z",
+      "content_hash": "sha256:e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-energy-structure.md"],
+      "pages_updated": []
+    },
+    "Economy/100 에너지 원자재/한국 에너지 소비구조.md": {
+      "ingested_at": "2026-05-25T06:48:00Z",
+      "size_bytes": 798,
+      "modified_at": "2026-05-25T05:45:53Z",
+      "content_hash": "sha256:f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6f7a2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-energy-structure.md"]
+    },
+    "Economy/100 에너지 원자재/유류세 한시 인하 현황.md": {
+      "ingested_at": "2026-05-25T06:48:00Z",
+      "size_bytes": 1105,
+      "modified_at": "2026-05-25T05:46:46Z",
+      "content_hash": "sha256:a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-energy-structure.md"]
+    },
+    "Economy/100 에너지 원자재/유가연동보조금.md": {
+      "ingested_at": "2026-05-25T06:48:00Z",
+      "size_bytes": 901,
+      "modified_at": "2026-05-25T05:46:55Z",
+      "content_hash": "sha256:b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-energy-structure.md"]
+    },
+    "Economy/100 에너지 원자재/유류세 vs 유가연동보조금 비교.md": {
+      "ingested_at": "2026-05-25T06:48:00Z",
+      "size_bytes": 1691,
+      "modified_at": "2026-05-25T05:47:10Z",
+      "content_hash": "sha256:c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-energy-structure.md"]
+    },
+    "Economy/4. 재정/국민연금 A값·KDI 구조개혁·모수개혁.md": {
+      "ingested_at": "2026-05-25T07:00:00Z",
+      "size_bytes": 2487,
+      "modified_at": "2026-05-25T05:48:58Z",
+      "content_hash": "sha256:d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-pension-reform.md"],
+      "pages_updated": []
+    },
+    "Economy/4. 재정/국민연금 재정.md": {
+      "ingested_at": "2026-05-25T07:00:00Z",
+      "size_bytes": 500,
+      "modified_at": "2026-05-25T05:48:00Z",
+      "content_hash": "sha256:e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-pension-reform.md"]
+    },
+    "Economy/4. 재정/정부부채 D1-D2-D3 통계 체계.md": {
+      "ingested_at": "2026-05-25T07:00:00Z",
+      "size_bytes": 497,
+      "modified_at": "2026-05-25T05:48:11Z",
+      "content_hash": "sha256:f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3b4c5d6e7f8a3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-fiscal-statistics.md"],
+      "pages_updated": []
+    },
+    "Economy/4. 재정/통합재정수지와 관리재정수지.md": {
+      "ingested_at": "2026-05-25T07:00:00Z",
+      "size_bytes": 944,
+      "modified_at": "2026-05-25T05:48:18Z",
+      "content_hash": "sha256:a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-statistics.md"]
+    },
+    "Economy/4. 재정/재정 승수-SOC가 최고.md": {
+      "ingested_at": "2026-05-25T07:00:00Z",
+      "size_bytes": 734,
+      "modified_at": "2026-05-25T05:48:30Z",
+      "content_hash": "sha256:b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-fiscal-statistics.md"]
+    },
+    "Economy/4. 재정/상속세 분석-세수 집중도와 실효세율.md": {
+      "ingested_at": "2026-05-25T07:00:00Z",
+      "size_bytes": 1488,
+      "modified_at": "2026-05-25T05:49:31Z",
+      "content_hash": "sha256:c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-tax-policy.md"],
+      "pages_updated": []
+    },
+    "Economy/4. 재정/법인세 실효세율 추이.md": {
+      "ingested_at": "2026-05-25T07:00:00Z",
+      "size_bytes": 741,
+      "modified_at": "2026-05-25T05:49:40Z",
+      "content_hash": "sha256:d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-tax-policy.md"]
+    },
+    "Economy/4. 재정/종부세 쟁점-다주택 중과세.md": {
+      "ingested_at": "2026-05-25T07:00:00Z",
+      "size_bytes": 453,
+      "modified_at": "2026-05-25T05:49:56Z",
+      "content_hash": "sha256:e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-tax-policy.md"]
+    },
+    "Economy/4. 재정/응능부담 원칙.md": {
+      "ingested_at": "2026-05-25T07:00:00Z",
+      "size_bytes": 331,
+      "modified_at": "2026-05-25T05:49:17Z",
+      "content_hash": "sha256:f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4b5c6d7e8f9a4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-tax-policy.md"]
+    },
+    "Economy/1 GDP/인구/인구동향-고령화와 가계부채.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 418,
+      "modified_at": "2026-05-25T05:41:00Z",
+      "content_hash": "sha256:a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-demographics.md"],
+      "pages_updated": []
+    },
+    "Economy/1 GDP/인구/장기성장과 인구구조.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 512,
+      "modified_at": "2026-05-25T05:41:00Z",
+      "content_hash": "sha256:b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-demographics.md"]
+    },
+    "Economy/1 GDP/인구/일본 고령화-의료재정 위기 브리핑.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 1200,
+      "modified_at": "2026-05-25T05:41:00Z",
+      "content_hash": "sha256:c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-demographics.md"]
+    },
+    "Economy/2. 인플레이션/인플레이션-상방 리스크 2025.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 900,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-inflation.md"]
+    },
+    "Economy/2. 인플레이션/농산물 가격.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 2800,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-inflation.md"]
+    },
+    "Economy/2. 인플레이션/주요 요인.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 1400,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5b6c7d8e9f0a5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-inflation.md"]
+    },
+    "Economy/2. 인플레이션/인플레이션과 유권자의 모순된 욕구.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 280,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-inflation.md"]
+    },
+    "Economy/3 노동시장/고용-취약부문 스트레스.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 620,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-labor-market.md"]
+    },
+    "Economy/3 노동시장/주요 과제.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 1600,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-labor-market.md"]
+    },
+    "Economy/3 노동시장/통상임금-고정성 제외 판결.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 400,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-labor-market.md"]
+    },
+    "Economy/복지 의료/건강보험 정부지원금.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 180,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-welfare-healthcare.md"],
+      "pages_updated": []
+    },
+    "Economy/복지 의료/기초연금 제도 개선.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 500,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6b7c8d9e0f1a6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-welfare-healthcare.md"]
+    },
+    "Economy/복지 의료/공공의료 위기 분석.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 700,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:a7b8c9d0e1f2a7b8c9d0e1f2a7b8c9d0e1f2a7b8c9d0e1f2a7b8c9d0e1f2a7b8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-welfare-healthcare.md"]
+    },
+    "Economy/1 GDP/4) 수출/주요 수출 품목.md": {
+      "ingested_at": "2026-05-25T07:15:00Z",
+      "size_bytes": 850,
+      "modified_at": "2026-05-25T05:41:25Z",
+      "content_hash": "sha256:b8c9d0e1f2a7b8c9d0e1f2a7b8c9d0e1f2a7b8c9d0e1f2a7b8c9d0e1f2a7b8c9",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-exports.md"]
+    }
+  },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 8,
-    "total_pages": 6,
+    "total_sources_ingested": 47,
+    "total_pages": 18,
     "total_projects": 0,
     "last_full_rebuild": "2026-05-25T06:19:20Z"
   }
