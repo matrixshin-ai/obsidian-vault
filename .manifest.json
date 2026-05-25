@@ -1438,11 +1438,34 @@
       "pages_created": [],
       "pages_updated": ["synthesis/korea-economy-pre-lee-government.md"]
     }
+  ,
+    "Economy/2. 인플레이션/문제점.md": {
+      "ingested_at": "2026-05-25T10:30:00Z",
+      "size_bytes": 3200,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-inflation.md"]
+    }
+    ,
+    "JAMnomics/GDP/이재명 정부 출범 전 경제 상황.md": {
+      "ingested_at": "2026-05-25T10:30:00Z",
+      "size_bytes": 4800,
+      "modified_at": "2026-05-25T06:00:00Z",
+      "content_hash": "sha256:f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["synthesis/korea-economy-pre-lee-government.md"]
+    }
   "projects": {},
   "stats": {
-    "total_sources_ingested": 146,
+    "total_sources_ingested": 148,
     "total_pages": 28,
     "total_projects": 0,
-    "last_full_rebuild": "2026-05-25T06:19:20Z"
+    "last_full_rebuild": "2026-05-25T06:19:20Z",
+    "last_updated": "2026-05-25T10:30:00Z"
   }
 }
