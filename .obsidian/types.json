@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "중국": "text"
+    "중국": "text",
+    "date": "date"
   }
 }

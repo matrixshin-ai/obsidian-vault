@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "Obsidian Vault의 Templates 폴더에 \nnew-note-template.md 파일을 만들어줘.\nfrontmatter에 다음 속성을 포함해줘:\n- date: 오늘 날짜 자동 입력\n- tags: 빈 값",
+    "timestamp": "2026-05-23T07:59:21.456Z"
+  },
+  {
+    "role": "assistant",
+    "content": "`Templates/new-note-template.md` 파일을 생성합니다.\n`C:\\Users\\신민식\\Documents\\Obsidian Vault\\Templates\\new-note-template.md` 파일을 생성했습니다.\n\n- **date**: Obsidian 기본 Templates 플러그인의 `{{date:YYYY-MM-DD}}` 변수를 사용해 노트 생성 시 오늘 날짜가 자동 입력됩니다.\n- **tags**: 빈 값으로 설정했습니다.\n\n> Templater 플러그인을 사용하신다면 `{{date:YYYY-MM-DD}}` 대신 `<% tp.date.now(\"YYYY-MM-DD\") %>`로 변경해드릴 수 있습니다.",
+    "timestamp": "2026-05-23T07:59:21.456Z"
+  }
+]

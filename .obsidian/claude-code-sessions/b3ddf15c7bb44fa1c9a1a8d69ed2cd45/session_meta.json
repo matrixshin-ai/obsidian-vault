@@ -1,0 +1,18 @@
+{
+  "sessionName": "세수 부족과 세입 경정",
+  "isStandalone": false,
+  "linkedNotes": [
+    {
+      "path": "Economy/4. 재정/세수 부족과 세입 경정.md",
+      "title": "세수 부족과 세입 경정",
+      "linkedAt": "2026-05-23T19:53:59.474Z",
+      "isPrimary": true
+    }
+  ],
+  "backend": "claude",
+  "lastUsed": "2026-05-23T19:53:59.474Z",
+  "createdAt": "2026-05-23T19:53:59.474Z",
+  "messageCount": 1,
+  "notePath": "Economy/4. 재정/세수 부족과 세입 경정.md",
+  "noteTitle": "세수 부족과 세입 경정"
+}

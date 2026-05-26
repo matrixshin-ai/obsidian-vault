@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "last_updated": "2026-05-23T00:00:00+09:00",
+  "sources": {
+    "Economy/1 GDP/1) GDP 일반/2 통계와 동향.md": {
+      "ingested_at": "2026-05-18T00:10:00+09:00",
+      "size_bytes": 1373,
+      "modified_at": "2026-03-05T23:44:01+09:00",
+      "content_hash": "sha256:a9b8eff83999c598ae04f597726f96b21a6a481443d462d235e60273f2b5d260",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/korea-gdp.md",
+        "concepts/korea-gdp-components.md",
+        "concepts/korea-economic-growth.md"
+      ],
+      "pages_updated": []
+    },
+    "Economy/1 GDP/1) GDP 일반/1 GDP.md": {
+      "ingested_at": "2026-05-19T00:00:00+09:00",
+      "size_bytes": 194,
+      "modified_at": "2026-04-18T22:32:09+09:00",
+      "content_hash": "sha256:2575ed9ffd07683ea727d49b33ca270cc928c791fc09e00978a16a5ba1de536a",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-household-debt.md"],
+      "pages_updated": []
+    },
+    "Economy/1 GDP/2) 소비/소비.md": {
+      "ingested_at": "2026-05-19T00:00:00+09:00",
+      "size_bytes": 1512,
+      "modified_at": "2026-04-18T22:32:02+09:00",
+      "content_hash": "sha256:d5388367e856f7d23c89a63008dbda7f79bc89b4ef2545ad53c909d2b55a7673",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-consumption.md"],
+      "pages_updated": ["concepts/korea-household-debt.md", "concepts/korea-gdp-components.md"]
+    },
+    "Economy/1 GDP/3) 투자/투자 개요.md": {
+      "ingested_at": "2026-05-19T00:00:00+09:00",
+      "size_bytes": 2419,
+      "modified_at": "2026-04-18T22:32:02+09:00",
+      "content_hash": "sha256:64fd3c2d55c16f8fbf126e5dccc910b320d2a67b44a7e490085534f8d3b21e8e",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-investment.md"],
+      "pages_updated": ["concepts/korea-gdp-components.md", "concepts/korea-economic-growth.md"]
+    },
+    "Economy/1 GDP/4) 수출/수출 개요와 동향.md": {
+      "ingested_at": "2026-05-19T00:00:00+09:00",
+      "size_bytes": 1611,
+      "modified_at": "2026-04-18T22:32:02+09:00",
+      "content_hash": "sha256:c0a80d3ede01b292eebb9b1c3b4b6e6b96f6d76b358c34106846c5def4adebdb",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-exports.md"],
+      "pages_updated": ["concepts/korea-gdp-components.md", "concepts/korea-economic-growth.md"]
+    },
+    "Economy/2. 인플레이션/인플레이션.md": {
+      "ingested_at": "2026-05-19T00:00:00+09:00",
+      "size_bytes": 1315,
+      "modified_at": "2026-04-18T22:32:02+09:00",
+      "content_hash": "sha256:9fde45874ce5df47aea1acf9570bbdb45ba82e905067fbf68c0ee0cdef2e3f5d",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-inflation.md"],
+      "pages_updated": []
+    },
+    "Economy/3 노동시장/고용시장.md": {
+      "ingested_at": "2026-05-19T00:00:00+09:00",
+      "size_bytes": 3200,
+      "modified_at": "2026-04-18T22:32:02+09:00",
+      "content_hash": "sha256:021347a6538ab74394cc7798515d78acdccff23ca8d646e847f890c05ebc5221",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-labor-market.md", "concepts/korea-youth-employment.md"],
+      "pages_updated": ["concepts/korea-aging-economy.md"]
+    },
+    "Clippings/국토연구원 주택 중심 자산 구조, 생산성 측면 부정적 영향.md": {
+      "ingested_at": "2026-05-19T00:00:00+09:00",
+      "size_bytes": 4254,
+      "modified_at": "2026-05-19T07:57:37+09:00",
+      "content_hash": "sha256:ebc2e7f423c1609d68efb309924ca97bd8cea8c7b685096c36c2ba1512574b14",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-real-estate-economy.md"],
+      "pages_updated": ["concepts/korea-aging-economy.md"]
+    },
+    "Clippings/지난해 4분기 20대 일자리 11.1만 개 ↓…13분기 연속 감소.md": {
+      "ingested_at": "2026-05-19T00:00:00+09:00",
+      "size_bytes": 2709,
+      "modified_at": "2026-05-19T08:15:05+09:00",
+      "content_hash": "sha256:56da9a432ba36cba2c4f7f9f2f8ea92ce2511fed569c37a1c448c30754ce6ef7",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-youth-employment.md"]
+    },
+    "Clippings/이장원의 뷰포인트 글로벌 불균형 '시즌 2'.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 3100,
+      "modified_at": "2026-05-21T14:18:36+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/global-imbalances.md"],
+      "pages_updated": ["concepts/korea-exports.md"]
+    },
+    "Clippings/총 6000억 판매… 정부가 손실 먼저 떠안고 최대 1800만원 稅혜택도10문10답.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 5100,
+      "modified_at": "2026-05-19T16:51:46+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-national-growth-fund.md"],
+      "pages_updated": []
+    },
+    "Economy/100 금융/국민참여형 국민성장펀드.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 3800,
+      "modified_at": "2026-05-19T16:41:41+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": ["concepts/korea-national-growth-fund.md"]
+    },
+    "JAMnomics/국제/1,500원 환율 시대의 역설.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 5600,
+      "modified_at": "2026-05-20T17:51:37+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-krw-usd-1500.md"],
+      "pages_updated": ["concepts/korea-exports.md"]
+    },
+    "Economy/1 GDP/References/한국_저성장_TFP_인구_자본축적_생산성_대화정리_2026-05-20.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 4900,
+      "modified_at": "2026-05-20T17:49:27+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-tfp-potential-growth.md"],
+      "pages_updated": ["concepts/korea-economic-growth.md", "concepts/korea-investment.md"]
+    },
+    "Economy/4. 재정/국민연금 재정.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 1600,
+      "modified_at": "2026-05-23T00:50:38+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/korea-pension-reform.md"],
+      "pages_updated": []
+    },
+    "JAMnomics/GDP/이재명_정부_출범전_한국경제_논리적_재정리.md": {
+      "ingested_at": "2026-05-23T00:00:00+09:00",
+      "size_bytes": 8200,
+      "modified_at": "2026-05-22T23:20:58+09:00",
+      "content_hash": "sha256:auto",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["synthesis/korea-economy-pre-lee-government.md"],
+      "pages_updated": ["concepts/korea-gdp-components.md", "concepts/korea-economic-growth.md"]
+    }
+  },
+  "projects": {},
+  "stats": {
+    "total_sources_ingested": 16,
+    "total_pages": 18,
+    "total_projects": 0,
+    "last_full_rebuild": null
+  }
+}

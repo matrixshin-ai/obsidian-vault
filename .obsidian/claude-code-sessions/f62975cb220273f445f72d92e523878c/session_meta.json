@@ -1,0 +1,24 @@
+{
+  "sessionName": "한국은행의 이익과 비용, 당기순이익",
+  "isStandalone": false,
+  "linkedNotes": [
+    {
+      "path": "Economy/100 금융/한국은행의 이익과 비용, 당기순이익.md",
+      "title": "한국은행의 이익과 비용, 당기순이익",
+      "linkedAt": "2026-05-23T07:59:04.398Z",
+      "isPrimary": true
+    },
+    {
+      "path": "Economy/4. 재정/재정적자와 미래세대 부담.md",
+      "title": "재정적자와 미래세대 부담",
+      "linkedAt": "2026-05-23T07:59:21.460Z",
+      "isPrimary": false
+    }
+  ],
+  "backend": "claude",
+  "lastUsed": "2026-05-23T07:59:04.398Z",
+  "createdAt": "2026-05-23T07:59:04.398Z",
+  "messageCount": 1,
+  "notePath": "Economy/100 금융/한국은행의 이익과 비용, 당기순이익.md",
+  "noteTitle": "한국은행의 이익과 비용, 당기순이익"
+}
