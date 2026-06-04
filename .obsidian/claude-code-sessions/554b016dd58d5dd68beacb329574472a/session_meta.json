@@ -1,0 +1,18 @@
+{
+  "sessionName": "2026-05-29-economy-briefing",
+  "isStandalone": false,
+  "linkedNotes": [
+    {
+      "path": "daily/2026-05-29-economy-briefing.md",
+      "title": "2026-05-29-economy-briefing",
+      "linkedAt": "2026-06-04T05:42:13.387Z",
+      "isPrimary": true
+    }
+  ],
+  "backend": "claude",
+  "lastUsed": "2026-06-04T05:42:13.387Z",
+  "createdAt": "2026-06-04T05:42:13.387Z",
+  "messageCount": 1,
+  "notePath": "daily/2026-05-29-economy-briefing.md",
+  "noteTitle": "2026-05-29-economy-briefing"
+}
