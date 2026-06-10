@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "dily 폴더의 Github 주소는 무엇인가? 그것은 Public repo인가?",
+    "timestamp": "2026-06-04T05:42:27.924Z"
+  },
+  {
+    "role": "assistant",
+    "content": "git remote 설정을 확인해 보겠습니다.\nREQUIRED_APPROVAL - git 명령어 실행 권한이 필요합니다. `.git/config` 파일을 직접 읽어보겠습니다.\n이 vault의 GitHub 주소는 다음과 같습니다:\n\n**https://github.com/matrixshin-ai/obsidian-vault**\n\n`daily` 폴더는 별도의 리포지토리가 아니라 이 vault 전체 리포지토리의 하위 폴더입니다.\n\nPublic/Private 여부는 `.git/config`에서는 확인이 안 됩니다. GitHub 웹사이트에서 직접 확인하시거나, git 명령어 실행 승인을 해주시면 확인할 수 있습니다.",
+    "timestamp": "2026-06-04T05:42:27.924Z"
+  }
+]
