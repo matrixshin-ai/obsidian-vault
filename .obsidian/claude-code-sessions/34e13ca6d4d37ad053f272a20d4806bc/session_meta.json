@@ -1,0 +1,18 @@
+{
+  "sessionName": "Portfolio",
+  "isStandalone": false,
+  "linkedNotes": [
+    {
+      "path": "Portfolio.md",
+      "title": "Portfolio",
+      "linkedAt": "2026-06-20T12:10:15.620Z",
+      "isPrimary": true
+    }
+  ],
+  "backend": "claude",
+  "lastUsed": "2026-06-20T12:11:30.509Z",
+  "createdAt": "2026-06-20T12:10:15.620Z",
+  "messageCount": 2,
+  "notePath": "Portfolio.md",
+  "noteTitle": "Portfolio"
+}
